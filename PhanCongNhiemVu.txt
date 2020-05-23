@@ -1,4 +1,4 @@
-Website Cổng Thông Tin Quản Lí Đồ Án Khoa CNTT
+﻿Website Cổng Thông Tin Quản Lí Đồ Án Khoa CNTT
 
 Web gồm 3 Phần: Sinh Viên, Giảng Viên, Khoa
 Sinh viên:Đăng nhập, đăng ký, nộp bài hàng tuần,cập nhập thông tin, xem giảng viên hướng dẫn, xem thông báo,tạo nhóm thực đồ án...
@@ -9,3 +9,5 @@ Phân công nhiệm vụ:
 	- Lợi, Mạnh code chức năng sinh viên
 	- Thanh, Nhàn code chức năng giảng viên
 	- Ngân thiết kế cơ sở dữ liệu, hỗ trợ ae fix bugs
+
+TAO VÔ PHÁ NHÓM TỤI MÀY NÈ :)))
